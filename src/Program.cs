@@ -56,7 +56,7 @@ namespace FRun
         }
         public static void HelpMsg()
         {
-            MessageBox.Show($"FastRun [FRun] v{ShowVersion(2)} beta\nРазработчик: DesConnet\nСайт: https://ds1nc.ru\n\nДля быстрого запуска программы можно использовать окно выполнить или командную строку.\n\nПример использования: frun dnspy(Регистр не важен)\n\nДоступные аргументы:\n--about - Открывает окно помощи\n--settings - Открывает окно настроек\n--add - Добавить новую программу\n--clear - Очистить список программ\n--install - Выполнить установку FRun в данной директории\n--uninstall - Удаление FRun\n--prefix [prefix] - Изменение префикса", $"FRun v{ShowVersion(2)} beta (c0d9d by DesConnet)", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show($"FastRun [FRun] v{ShowVersion(2)} beta\nРазработчик: DesConnet\nСайт: https://ds1nc.ru\n\nДля быстрого запуска программы можно использовать окно выполнить или командную строку.\n\nПример использования: frun dnspy(Регистр не важен)\n\nДоступные аргументы:\n--about - Открывает окно помощи\n--settings - Открывает окно настроек\n--add - Добавить новую программу\n--clear - Очистить список программ\n--install - Выполнить установку FRun в данной директории\n--uninstall - Удаление FRun\n--prefix [prefix] - Изменение префикса\n--remove [name] - Удалить приложение из списка", $"FRun v{ShowVersion(2)} beta (c0d9d by DesConnet)", MessageBoxButtons.OK, MessageBoxIcon.Information);
             Environment.Exit(1);
         }
 
