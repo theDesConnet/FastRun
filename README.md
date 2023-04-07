@@ -16,6 +16,7 @@
 * uninstall - Удаление FastRun
 * prefix - Изменение префикса [Пример: `frun --prefix demo` | `demo --about`]
 * about - Окно с краткой информацией (Самый бесполезный аргумент -_-)
+* remove - Удалить программу/сайт/ссылку/папку
 
 ## Скриншоты
 ![FRun_ioFHrFoPco](https://user-images.githubusercontent.com/31757032/230619249-af59de7b-4752-4a1c-875f-913694348259.png)
