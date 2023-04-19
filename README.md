@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ![FastRun](img/FastRunLogo.png)
 
@@ -53,13 +53,13 @@ FastRun project is licensed under the terms of GNU General Public License versio
 
 # Thanks
 
-[NobootRecord](https://t.me/NobootRecord) - For updated ReadMe and new icon for FastRun
+[NobootRecord](https://github.com/NobootRecord) - For updated ReadMe and new icon for FastRun
 
 # Contact me
 
 You can contact me about any questions by [e-mail](mailto:thedesconnet@ds1nc.ru) and/or Discord: ```DesConnet#9393```
 
-<div style="text-align: center;">
+<div align="center">
 
 ### Copyright (c) DesConnet, 2023
 ### [ds1nc.ru](https://ds1nc.ru)
