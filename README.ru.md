@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ![FastRun](img/FastRunLogo.png)
 
@@ -53,13 +53,13 @@ FastRun - это небольшая утилита, которая позвол�
 
 # Благодарности
 
-[NobootRecord](https://t.me/NobootRecord) - За обновленный ReadMe и новую иконку для FastRun
+[NobootRecord](https://github.com/NobootRecord) - За обновленный ReadMe и новую иконку для FastRun
 
 # Связь с разработчиком
 
 Связаться с разработчиком (баги, предложения, замечания, комплименты) можно по [электронной почте](mailto:thedesconnet@ds1nc.ru) и/или в Discord: ```DesConnet#9393```
 
-<div style="text-align: center;">
+<div align="center">
 
 ### Copyright (c) DesConnet, 2023
 ### [ds1nc.ru](https://ds1nc.ru)
